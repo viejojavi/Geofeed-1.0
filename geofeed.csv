@@ -8,3 +8,4 @@
 #ip_prefix,alpha2code,region,city,postal_code
 38.188.178.0/24,CO,CO-CUN,Choachi,251620
 190.217.20.96/28,CO,CO-CUN,Choachi,251620
+2803:b850::/32,CO,CO-CUN,Choachi,251620
