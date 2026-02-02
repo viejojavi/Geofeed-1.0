@@ -7,7 +7,7 @@
 # for improving the accuracy of Geo:IP lookups
 #ip_prefix,alpha2code,region,city,postal_code
 38.188.178.0/24,CO,CO-CUN,Choachi,251620
-207.230.9.0/24, CO, CO-CUN, Choachi, 251620
+#207.230.9.0/24, CO, CO-CUN, Choachi, 251620
 190.217.20.96/28,CO,CO-CUN,Choachi,251620
 207.230.10.80/29,CO,CO-CUN,Choachi,251620
 207.230.10.240/28,CO,CO-CUN,Choachi,251620
